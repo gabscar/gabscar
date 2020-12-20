@@ -2,7 +2,10 @@
 <h3 align="center">Estudante de Engenharia da computação</h3>
 
 <p>Sou um estudante de engenharia da computação apaixonado por programação, sempre buscando expandir meus conhecimentos e estando aberto a conhecer
-novas tecnologias.<p>
+novas tecnologias.
+Email para contato: srgabsc@gmail.com
+<p>
+ 
 <h3 align="left">Conexões:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/gabriel-carvalho-1821741b1" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://linkedin.com/in/gabriel-carvalho-1821741b1" height="30" width="40" /></a>
