@@ -2,9 +2,9 @@
 <h3 align="center">Estudante de Engenharia da computação</h3>
 
 <p>Sou um estudante de engenharia da computação apaixonado por programação, sempre buscando expandir meus conhecimentos e estando aberto a conhecer
-novas tecnologias.
-Email para contato: srgabsc@gmail.com
-<p>
+novas tecnologias.<p>
+ 
+ <p>Email para contato: srgabsc@gmail.com<p>
  
 <h3 align="left">Conexões:</h3>
 <p align="left">
