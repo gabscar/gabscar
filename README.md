@@ -7,7 +7,7 @@ novas tecnologias.<p>
  <p>Email para contato: srgabsc@gmail.com<p>
  <div align ="center" >  
   
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabscar&count_private=true&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabscar&count_private=true&show_icons=true&theme=radical&hide=stars)
   
   </div>
 <h3 align="left">Conexões:</h3>
