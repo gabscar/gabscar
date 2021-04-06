@@ -1,4 +1,4 @@
-<h1 align="center">Olá 👋, eu sou Gabriel Carvalho</h1>
+<h1 align="center">Olá eu sou Gabriel Carvalho</h1>
 <h3 align="center">Estudante de Engenharia da computação</h3>
 
 <p>Sou um estudante de engenharia da computação apaixonado por programação, sempre buscando expandir meus conhecimentos e estando aberto a conhecer
