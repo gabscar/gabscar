@@ -8,7 +8,7 @@ novas tecnologias.<p>
  <div> 
   
   
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=gabscarv&show_icons=true&theme=radical)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=gabscar&show_icons=true&theme=radical)
   
   </div>
 <h3 align="left">Conexões:</h3>
