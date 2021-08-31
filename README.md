@@ -11,12 +11,7 @@ novas tecnologias.<p>
   
 
   </div>
-<div align ="center" >
- 
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabscar&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-
- </div>
  
 <h3 align="left">Conexões:</h3>
 <p align="left">
