@@ -8,8 +8,10 @@ novas tecnologias.<p>
  <div align ="center" >  
   
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabscar&count_private=true&show_icons=true&theme=radical&hide=stars)
-  
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?gabscar=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
   </div>
+ 
 <h3 align="left">Conexões:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/gabriel-carvalho-1821741b1" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://linkedin.com/in/gabriel-carvalho-1821741b1" height="30" width="40" /></a>
