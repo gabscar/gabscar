@@ -5,12 +5,15 @@
 novas tecnologias.<p>
  
  <p>Email para contato: srgabsc@gmail.com<p>
- <div align ="center" flex-direction="column" >  
+ <div align ="center" >  
   
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabscar&count_private=true&show_icons=true&theme=radical&hide=stars)
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabscar)](https://github.com/anuraghazra/github-readme-stats)
+  
 
   </div>
+<div align ="center" >
+ [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabscar&count_private=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+ </div>
  
 <h3 align="left">Conexões:</h3>
 <p align="left">
