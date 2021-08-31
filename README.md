@@ -5,7 +5,7 @@
 novas tecnologias.<p>
  
  <p>Email para contato: srgabsc@gmail.com<p>
- <div align ="center" style="flex-direction: colunm;" >  
+ <div align ="center" flex-direction="column" >  
   
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabscar&count_private=true&show_icons=true&theme=radical&hide=stars)
   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabscar)](https://github.com/anuraghazra/github-readme-stats)
