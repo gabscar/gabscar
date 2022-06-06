@@ -1,10 +1,15 @@
 <h1 align="center">Olá eu sou Gabriel Carvalho</h1>
-<h3 align="center">Estudante de Engenharia da computação</h3>
 
-<p>Sou um estudante de engenharia da computação apaixonado por programação, sempre buscando expandir meus conhecimentos e estando aberto a conhecer
-novas tecnologias.<p>
+<p>Passionate about programming, always looking to expand my knowledge and being open to discovering new technologies.<p>
  
++ :man_student: Computer Engineering Student
++ :books: Recent Learnings:
+  - Constantly learning about ReactJS, NodeJS docker, to the degree everything related to the JavaScript universe, including Typescript
  <p>Email para contato: srgabsc@gmail.com<p>
+  
+ To contact me you can use the following ways
+ + <a href="https://www.linkedin.com/in/gabriel-carvalho-1821741b1">Linkedn</a>
+ + :mailbox:: srgabsc@gmail.com
  <div align ="center" >  
   
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabscar&count_private=true&show_icons=true&theme=radical&hide=stars)
