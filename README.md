@@ -2,7 +2,7 @@
 
 <p>Passionate about programming, always looking to expand my knowledge and being open to discovering new technologies.<p>
  
-+ :man_student: Computer Engineering Student
++ :man_student: Computer Engineering
 + :books: Recent Learnings:
   - Constantly learning about ReactJS, NodeJS docker, to the degree everything related to the JavaScript universe, including Typescript
  <p>Email para contato: srgabsc@gmail.com<p>
