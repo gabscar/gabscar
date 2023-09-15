@@ -11,9 +11,6 @@
  + <a href="https://www.linkedin.com/in/gabriel-carvalho-1821741b1">Linkedn</a>
  + :mailbox:: srgabsc@gmail.com
  <div align ="center" >  
-  <!---
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabscar&count_private=true&show_icons=true&theme=radical&hide=stars)
-  -->
  
 
   </div>
