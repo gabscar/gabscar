@@ -9,7 +9,7 @@
   
  To contact me you can use the following ways
  + <a href="https://www.linkedin.com/in/gabriel-carvalho-1821741b1">Linkedn</a>
- + :mailbox:: srgabsc@gmail.com
+ + :mailbox:: gabs.carvalho.dev@gmail.com
  <div align ="center" >  
  
 
