@@ -8,7 +8,7 @@
  <p>Email para contato: srgabsc@gmail.com<p>
   
  To contact me you can use the following ways
- + <a href="https://www.linkedin.com/in/gabriel-carvalho-1821741b1">Linkedn</a>
+
  + :mailbox:: gabs.carvalho.dev@gmail.com
  <div align ="center" >  
  
@@ -18,7 +18,7 @@
  
 <h3 align="left">Conexões:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/gabriel-carvalho-1821741b1" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="https://linkedin.com/in/gabriel-carvalho-1821741b1" height="40" width="40" /></a>
+<a href="https://www.linkedin.com/in/gabriel" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="https://linkedin.com/in/gabriel-carvalho-1821741b1" height="40" width="40" /></a>
 </p>
 
 <h3 align="left">Linguagens e ferramentas:</h3>
